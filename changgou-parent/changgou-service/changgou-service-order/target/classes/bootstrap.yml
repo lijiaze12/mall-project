@@ -1,0 +1,20 @@
+#server:
+  #port: 8500
+
+#spring:
+ # application:
+ #   name: jskj-file
+ # autoconfigure:
+  #  exclude: com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure
+server:
+  port: 18090
+spring:
+  application:
+    name: order
+
+
+
+
+
+
+

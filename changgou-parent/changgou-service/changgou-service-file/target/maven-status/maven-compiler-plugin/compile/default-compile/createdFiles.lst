@@ -1,0 +1,8 @@
+com\changgou\file\FastDFSFile.class
+com\changgou\contrl\Picccc.class
+com\changgou\file\controller\FileController.class
+com\changgou\file\vo\PicUploadResult.class
+com\changgou\FileApplication.class
+com\changgou\file\util\FastDFSClient.class
+com\changgou\file\service\PicUploadFileSystemService.class
+com\changgou\file\controller\LocalFileController.class

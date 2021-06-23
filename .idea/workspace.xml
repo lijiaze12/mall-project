@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c965cfe1-2bdc-44d9-8e21-c893f6ea5b7f" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/changgou-parent/changgou-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/changgou-parent/changgou-core/target/" />
+    <ignored path="$PROJECT_DIR$/changgou-parent/changgou-service-api/target/" />
+    <ignored path="$PROJECT_DIR$/changgou-parent/target/" />
+    <ignored path="$PROJECT_DIR$/changgou-parent/changgou-core/changgou-core-service/target/" />
+    <ignored path="$PROJECT_DIR$/changgou-parent/changgou-service/changgou-service-goods/target/" />
+    <ignored path="$PROJECT_DIR$/changgou-parent/changgou-common-db/target/" />
+    <ignored path="$PROJECT_DIR$/changgou-parent/changgou-service/changgou-service-file/target/" />
+    <ignored path="$PROJECT_DIR$/changgou-parent/changgou-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/changgou-parent/changgou-core/changgou-core-controller/target/" />
+    <ignored path="$PROJECT_DIR$/changgou-parent/changgou-service-api/changgou-search-search-api/target/" />
+    <ignored path="$PROJECT_DIR$/changgou-parent/changgou-service/target/" />
+    <ignored path="$PROJECT_DIR$/changgou-parent/changgou-common/target/" />
+    <ignored path="$PROJECT_DIR$/changgou-parent/changgou-service-api/changgou-service-content-api/target/" />
+    <ignored path="$PROJECT_DIR$/changgou-parent/changgou-service/changgou-service-content/target/" />
+    <ignored path="$PROJECT_DIR$/changgou-parent/changgou-service/changgou-service-canal/target/" />
+    <ignored path="$PROJECT_DIR$/code-template/target/" />
+    <ignored path="$PROJECT_DIR$/changgou-parent/changgou-web/target/" />
+    <ignored path="$PROJECT_DIR$/changgou-parent/changgou-service-api/changgou-service-goods-api/target/" />
+    <ignored path="$PROJECT_DIR$/changgou-parent/changgou-service/changgou-service-search/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/changgou-parent/changgou-service/changgou-service-search/src/main/java/com/changgou/search/service/SearchResultMapperImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14">
+              <caret line="33" column="19" lean-forward="true" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/changgou-parent/changgou-service/changgou-service-search/src/main/java/com/changgou/search/service/impl/SkuServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2001">
+              <caret line="156" column="25" lean-forward="true" selection-start-line="156" selection-start-column="25" selection-end-line="156" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#9881#9889#0" expanded="true" />
+                <element signature="e#10629#10637#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/changgou-parent/changgou-service/changgou-service-search/src/main/java/com/changgou/search/controller/SkuController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="739">
+              <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/changgou-parent/changgou-service/changgou-service-search/src/main/java/com/changgou/search/service/impl/SkuServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/software/apache-maven-3.3.9" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="543" />
+    <option name="y" value="53" />
+    <option name="width" value="1089" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectId" id="1jzL3Z6RRa9JMKJo0dit86orzZY" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="changgou101" type="b2602c69:ProjectViewProjectNode" />
+              <item name="changgou-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="changgou101" type="b2602c69:ProjectViewProjectNode" />
+              <item name="changgou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="changgou-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="changgou101" type="b2602c69:ProjectViewProjectNode" />
+              <item name="changgou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="changgou-service" type="462c0819:PsiDirectoryNode" />
+              <item name="changgou-service-search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="changgou101" type="b2602c69:ProjectViewProjectNode" />
+              <item name="changgou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="changgou-service" type="462c0819:PsiDirectoryNode" />
+              <item name="changgou-service-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="changgou101" type="b2602c69:ProjectViewProjectNode" />
+              <item name="changgou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="changgou-service" type="462c0819:PsiDirectoryNode" />
+              <item name="changgou-service-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="changgou101" type="b2602c69:ProjectViewProjectNode" />
+              <item name="changgou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="changgou-service" type="462c0819:PsiDirectoryNode" />
+              <item name="changgou-service-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="changgou101" type="b2602c69:ProjectViewProjectNode" />
+              <item name="changgou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="changgou-service" type="462c0819:PsiDirectoryNode" />
+              <item name="changgou-service-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="changgou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="changgou101" type="b2602c69:ProjectViewProjectNode" />
+              <item name="changgou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="changgou-service" type="462c0819:PsiDirectoryNode" />
+              <item name="changgou-service-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="changgou" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="changgou101" type="b2602c69:ProjectViewProjectNode" />
+              <item name="changgou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="changgou-service" type="462c0819:PsiDirectoryNode" />
+              <item name="changgou-service-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="changgou" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="changgou101" type="b2602c69:ProjectViewProjectNode" />
+              <item name="changgou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="changgou-service" type="462c0819:PsiDirectoryNode" />
+              <item name="changgou-service-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="changgou" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1605950968947" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.changgou.search.service.impl" />
+      <recent name="com.changgou.search.service" />
+      <recent name="com.changgou.goods.service.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\IdeaProjects\changgou101\changgou-parent\changgou-service\changgou-service-content\src\main\java\com\changgou\content" />
+      <recent name="C:\Users\admin\IdeaProjects\changgou101\changgou-parent\changgou-service-api\changgou-service-content-api\src\main\java\com\changgou\content" />
+      <recent name="C:\Users\admin\IdeaProjects\changgou101\changgou-parent\changgou-service\changgou-service-canal\src\main\java\com\changgou\listener" />
+      <recent name="C:\Users\admin\IdeaProjects\changgou101\changgou-parent\changgou-service\changgou-service-goods\src\main\java\com\changgou\goods" />
+      <recent name="C:\Users\admin\IdeaProjects\changgou101\changgou-parent\changgou-service-api\changgou-service-goods-api\src\main\java\com\changgou\goods\pojo" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SearchApplication-18085">
+    <configuration name="CodeApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.CodeApplication" />
+      <module name="code-template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IdWorker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="entity.IdWorker" />
+      <module name="changgou-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FastdfsTest.deleteFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="changgou-service-file" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.changgou" />
+      <option name="MAIN_CLASS_NAME" value="com.changgou.FastdfsTest" />
+      <option name="METHOD_NAME" value="deleteFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FastdfsTest.download" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="changgou-service-file" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.changgou" />
+      <option name="MAIN_CLASS_NAME" value="com.changgou.FastdfsTest" />
+      <option name="METHOD_NAME" value="download" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FastdfsTest.upload" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="changgou-service-file" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.changgou" />
+      <option name="MAIN_CLASS_NAME" value="com.changgou.FastdfsTest" />
+      <option name="METHOD_NAME" value="upload" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CanalApplication-18083" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="changgou-service-canal" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.CanalApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContentApplication-18084" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="changgou-service-content" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.ContentApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="changgou-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.EurekaApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileApplication-18082" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="changgou-service-file" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.FileApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodsApplication-18081" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="changgou-service-goods" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.GoodsApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchApplication-18085" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="changgou-service-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.SearchApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CodeApplication" />
+      <item itemvalue="Application.IdWorker" />
+      <item itemvalue="JUnit.FastdfsTest.upload" />
+      <item itemvalue="JUnit.FastdfsTest.download" />
+      <item itemvalue="JUnit.FastdfsTest.deleteFile" />
+      <item itemvalue="Spring Boot.ContentApplication-18084" />
+      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Spring Boot.SearchApplication-18085" />
+      <item itemvalue="Spring Boot.CanalApplication-18083" />
+      <item itemvalue="Spring Boot.GoodsApplication-18081" />
+      <item itemvalue="Spring Boot.FileApplication-18082" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CodeApplication" />
+        <item itemvalue="JUnit.FastdfsTest.upload" />
+        <item itemvalue="Application.IdWorker" />
+        <item itemvalue="JUnit.FastdfsTest.deleteFile" />
+        <item itemvalue="JUnit.FastdfsTest.download" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\admin\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c965cfe1-2bdc-44d9-8e21-c893f6ea5b7f" name="Default Changelist" comment="" />
+      <created>1604801774327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604801774327</updated>
+      <workItem from="1604801777455" duration="15041000" />
+      <workItem from="1604827357425" duration="2395000" />
+      <workItem from="1604902029751" duration="2512000" />
+      <workItem from="1604968331388" duration="14483000" />
+      <workItem from="1605060586706" duration="14436000" />
+      <workItem from="1605240654740" duration="5365000" />
+      <workItem from="1605314308281" duration="13644000" />
+      <workItem from="1605413554913" duration="212000" />
+      <workItem from="1605487152784" duration="14495000" />
+      <workItem from="1605776149399" duration="2860000" />
+      <workItem from="1605865289230" duration="3565000" />
+      <workItem from="1605922861787" duration="13992000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20417000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="543" y="53" width="1089" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.37317786" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Persistence" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Spring" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1604801908824">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1604801908824" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605325869520">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605325869520" />
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser" timestamp="1605508639120">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1605508639120" />
+    <state x="498" y="201" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605325862488">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="201" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1605325862488" />
+    <state width="443" height="466" key="DebuggerActiveHint" timestamp="1605349380320">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="443" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1605349380320" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1605060819639">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605060819639" />
+    <state width="1493" height="287" key="GridCell.Tab.0.bottom" timestamp="1605510457315">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605510457315" />
+    <state width="1493" height="287" key="GridCell.Tab.0.center" timestamp="1605510457313">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605510457313" />
+    <state width="1493" height="287" key="GridCell.Tab.0.left" timestamp="1605510457313">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605510457313" />
+    <state width="1493" height="287" key="GridCell.Tab.0.right" timestamp="1605510457314">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605510457314" />
+    <state width="1493" height="287" key="GridCell.Tab.1.bottom" timestamp="1605510457315">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605510457315" />
+    <state width="1493" height="287" key="GridCell.Tab.1.center" timestamp="1605510457315">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605510457315" />
+    <state width="1493" height="287" key="GridCell.Tab.1.left" timestamp="1605510457315">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605510457315" />
+    <state width="1493" height="287" key="GridCell.Tab.1.right" timestamp="1605510457315">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605510457315" />
+    <state width="1493" height="342" key="GridCell.Tab.2.bottom" timestamp="1605357555052">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="342" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605357555052" />
+    <state width="1493" height="342" key="GridCell.Tab.2.center" timestamp="1605357555051">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="342" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1605357555051" />
+    <state width="1493" height="342" key="GridCell.Tab.2.left" timestamp="1605357555051">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="342" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1605357555051" />
+    <state width="1493" height="342" key="GridCell.Tab.2.right" timestamp="1605357555051">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="342" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1605357555051" />
+    <state x="583" y="346" key="ReplaceDuplicatesPrompt" timestamp="1605489439170">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="583" y="346" key="ReplaceDuplicatesPrompt/0.0.1536.824@0.0.1536.824" timestamp="1605489439170" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1605090658955">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605090658955" />
+    <state x="499" y="157" key="extract.method.dialog" timestamp="1605489434405">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="157" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1605489434405" />
+    <state x="356" y="0" key="new project wizard" timestamp="1605321596492">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="356" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1605321596492" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1605338815008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1605338815008" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1605500097154">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605500097154" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/6.4.3/elasticsearch-6.4.3-sources.jar!/org/elasticsearch/search/aggregations/bucket/terms/StringTerms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/6.4.3/elasticsearch-6.4.3-sources.jar!/org/elasticsearch/index/query/QueryBuilders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/6.4.3/elasticsearch-6.4.3-sources.jar!/org/elasticsearch/index/query/BoolQueryBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="134" column="28" selection-start-line="134" selection-start-column="28" selection-end-line="134" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-elasticsearch/3.1.6.RELEASE/spring-data-elasticsearch-3.1.6.RELEASE-sources.jar!/org/springframework/data/elasticsearch/core/SearchResultMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/changgou-parent/changgou-service/changgou-service-search/src/main/java/com/changgou/search/controller/SkuController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="739">
+          <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/changgou-parent/changgou-service/changgou-service-search/src/main/java/com/changgou/search/service/SearchResultMapperImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="33" column="19" lean-forward="true" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/changgou-parent/changgou-service/changgou-service-search/src/main/java/com/changgou/search/service/impl/SkuServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2001">
+          <caret line="156" column="25" lean-forward="true" selection-start-line="156" selection-start-column="25" selection-end-line="156" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#9881#9889#0" expanded="true" />
+            <element signature="e#10629#10637#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

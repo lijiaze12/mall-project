@@ -1,0 +1,10 @@
+# 阿波罗配置
+app:
+  id: mall-pay    #apollo上的项目名称
+apollo:
+  #  注册路径，阿波罗默认注册配置 Eureka
+  meta: http://192.168.3.85:8096    #apollo的地址
+  bootstrap:
+    enabled: true
+    #    指定阿波罗中配置项名称，多个用逗号隔开
+    namespaces: application      #项目中名称空间

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>二维码入门小demo</title>
+</head>
+<body>
+<img id="qrious">
+<script src="qrious.js"></script>
+<script>
+    var qr = new QRious({
+        element:document.getElementById('qrious'),
+        size:250,
+        level:'H',
+        value:'weixin://wxpay/bizpayurl?pr=CfpcPAjzz'
+    });
+</script>
+</body>
+</html>
